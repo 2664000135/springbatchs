@@ -1,0 +1,5 @@
+com\test\hello\processor\PersonItemProcessor.class
+com\test\hello\config\BatchConfig.class
+com\test\hello\pojo\Person.class
+com\test\hello\config\HelloWorldJobConfig.class
+com\test\hello\Application.class

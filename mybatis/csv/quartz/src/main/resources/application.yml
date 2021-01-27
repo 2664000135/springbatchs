@@ -1,0 +1,9 @@
+spring:
+  batch:
+    job:
+      enabled: false
+  datasource:
+    url: jdbc:mysql://127.0.0.1:3306/springbatch?useSSL=false&serverTimezone=UTC&characterEncoding=utf8
+    driver-class-name: com.mysql.jdbc.Driver
+    username: root
+    password: root
